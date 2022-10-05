@@ -11,9 +11,7 @@ This repository is connected to my website name **Know Your Emoji**.
 # Text Editor
 - Visual Studio Code
 
-# Language used 
-- HTML
-- CSS
-- JS
+# Deployment Environment
+- Vercel
 
-# Click [here](https://https://neog-know-your-emoji.vercel.app/) to redirect to my website
+# Click [here](https://neog-know-your-emoji.vercel.app/) to redirect to my website
