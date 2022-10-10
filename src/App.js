@@ -56,7 +56,7 @@ export default function App() {
           emojis.map((emoji) => (
             <span
               onClick={() => emojiHandler(emoji)}
-              style={{ fontSize: "2rem", padding: "5px", cursor: "pointer" }}
+              style={{ fontSize: "30px", paddingTop: "10px", cursor: "pointer" }}
             >
               {" "}
               {emoji}{" "}
