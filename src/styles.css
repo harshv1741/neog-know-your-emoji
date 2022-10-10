@@ -27,6 +27,7 @@
 }
 
 .contentBox {
+  transition-duration: 0.5s;
   margin: 2rem;
   padding: 1rem;
   background-color: red;
@@ -35,10 +36,10 @@
 }
 
 .usrTxt {
-  margin-left: auto;
-  margin-right: auto;
+ transition-duration: 0.5s;
   width: 100%;
-  max-width: 120px;
+  max-width: 200px;
+  text-align: center;
   height: 30px;
   font-size: x-large;
   border: 4px solid blue;
